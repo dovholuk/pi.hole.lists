@@ -3,3 +3,4 @@ rtb.adgrx.com
 pubads.g.doubleclick.net
 b.ns1p.net
 dpm.demdex.net
+api2.branch.io
