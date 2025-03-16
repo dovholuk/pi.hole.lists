@@ -1,5 +1,5 @@
-aa.p.teads.tv
+p.teads.tv
 aa.rtb.adgrx.com
-pubads.g.doubleclick.net
+aa.pubads.g.doubleclick.net
 aa.b.ns1p.net
 dpm.demdex.net
